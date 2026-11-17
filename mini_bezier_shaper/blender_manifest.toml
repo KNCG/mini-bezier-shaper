@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "mini_bezier_shaper"
+version = "1.5.0"
+name = "Mini Bezier Shaper"
+tagline = "Shape vertex rows or hair strands with a live Bezier curve"
+maintainer = "KC"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Mesh", "Modeling"]
