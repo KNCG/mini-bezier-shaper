@@ -29,10 +29,8 @@ Download the zip from [Releases](../../releases). 到 Releases 下載 zip。
 
 Remove the old version before installing a new one. 安裝新版前先移除舊版。
 
-The panel is in the 3D Viewport sidebar: press **N** → **Edit** tab → **Mini Bezier Shaper**. With Blender's interface set to Traditional Chinese, the buttons show in Chinese.
-
-面板在 3D 視窗側邊欄：按 **N** → **Edit** 分頁。Blender 介面設成繁體中文時，按鈕會顯示中文。
-
+The panel is in the 3D Viewport sidebar: press **N** → **Edit** tab → **Mini Bezier Shaper**.
+面板在 3D 視窗側邊欄：按 **N** → **Edit** 分頁。
 ## Usage / 用法
 
 ### Strand layout / 髮束結構
