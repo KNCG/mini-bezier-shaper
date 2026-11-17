@@ -7,7 +7,7 @@ Shape a row of vertices, or a whole hair strand, with a live Bezier curve.
 
 - Blender 4.2 以上：用 `mini_bezier_shaper_4.2+.zip`
   偏好設定 → 附加元件（Add-ons）→ 右上角下拉選單 → 從磁碟安裝（Install from Disk）
-- Blender 3.0 到 4.1：用 `mini_bezier_shaper_legacy.zip`
+- Blender 3.0 到 4.1：用 `mini_bezier_shaper_4.1below.zip`
   偏好設定 → 附加元件 → 安裝（Install）→ 選 zip → 勾選啟用
 
 ## 用法 / Usage
