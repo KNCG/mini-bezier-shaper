@@ -1,12 +1,13 @@
 # Mini Bezier Shaper
 
-**用可以拖的貝茲曲線塑形髮束的免費 Blender 插件**
+**用可以拖的貝茲曲線塑形髮束的免費 Blender 插件**<br>
 **A free Blender add-on for shaping hair strands with a live Bezier curve**
 
 [中文](#中文) · [English](#english) · [下載 Download](../../releases/latest)
 
 > [!NOTE]
 > 這個插件還很新，測試不多。遇到問題請 [開 issue](../../issues)，附上錯誤訊息和 Blender 版本。
+>
 > This add-on is new and lightly tested. Please [open an issue](../../issues) with the error message and your Blender version if something breaks.
 
 ---
@@ -153,7 +154,7 @@ Creates both install zips in `dist/`. 會在 `dist/` 產生兩個安裝用的 zi
 
 ## Credits
 
-Made by KNCG, with code written together with Claude (Anthropic).
+Made by KNCG, with code written together with Claude (Anthropic).<br>
 由 KNCG 製作，程式碼與 Claude (Anthropic) 協作完成。
 
 ## License
